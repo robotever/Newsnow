@@ -6,10 +6,3 @@ compatibility_date = "2024-10-03"
 binding = "DB"
 database_name = "newsnow-db"
 database_id = "8f717f41-4b97-4b35-8fbc-57d42bb378a4"
-
-
-G_CLIENT_ID="Ov23lihtxRZuVzPs5L4I"
-G_CLIENT_SECRET="d8420a7041866c394dd12af53769108e182d9fd9"
-JWT_SECRET="d8420a7041866c394dd12af53769108e182d9fd9"
-INIT_TABLE="true"
-ENABLE_CACHE="true"
